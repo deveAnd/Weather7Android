@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather in rewind</string>
+    <string name="title_activity_main">Weather 7</string>
+    <string name="select">Please, select place</string>
+    <string name="title_temperature">Temperatures in the last 7 days</string>
+    <string name="return_map">Return to map</string>
+</resources>
